@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
+  <!--Created by yEd 3.18.1.1-->
+  <key for="port" id="d0" yfiles.type="portgraphics"/>
+  <key for="port" id="d1" yfiles.type="portgeometry"/>
+  <key for="port" id="d2" yfiles.type="portuserdata"/>
+  <key attr.name="url" attr.type="string" for="node" id="d3"/>
+  <key attr.name="description" attr.type="string" for="node" id="d4"/>
+  <key for="node" id="d5" yfiles.type="nodegraphics"/>
+  <key for="graphml" id="d6" yfiles.type="resources"/>
+  <key attr.name="url" attr.type="string" for="edge" id="d7"/>
+  <key attr.name="description" attr.type="string" for="edge" id="d8"/>
+  <key for="edge" id="d9" yfiles.type="edgegraphics"/>
+  <graph edgedefault="directed" id="G">
+    <node id="n0" yfiles.foldertype="group">
+      <data key="d4"/>
+      <data key="d5">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GenericGroupNode configuration="DemoGroup">
+              <y:Geometry height="490.0" width="775.0" x="-274.5" y="-322.0"/>
+              <y:Fill color="#68B0E3" color2="#3C679B" transparent="false"/>
+              <y:BorderStyle hasColor="false" type="line" width="4.0"/>
+              <y:NodeLabel alignment="left" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#FFFFFF" verticalTextPosition="bottom" visible="true" width="24.677734375" x="4.0" xml:space="preserve" y="4.0">Top<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="-0.5" labelRatioY="-0.5" nodeRatioX="-0.5" nodeRatioY="-0.5" offsetX="4.0" offsetY="4.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:State autoResize="true" closed="false" closedHeight="80.0" closedWidth="100.0"/>
+              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="22" topF="22.0"/>
+              <y:BorderInsets bottom="8" bottomF="7.5" left="19" leftF="19.0" right="24" rightF="24.0" top="23" topF="22.5"/>
+            </y:GenericGroupNode>
+            <y:GenericGroupNode configuration="DemoGroup">
+              <y:Geometry height="490.0" width="775.0" x="-274.5" y="-322.0"/>
+              <y:Fill color="#68B0E3" color2="#3C679B" transparent="false"/>
+              <y:BorderStyle hasColor="false" type="line" width="4.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="385.5" y="243.0"/>
+              <y:State autoResize="true" closed="true" closedHeight="490.0" closedWidth="775.0"/>
+              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="22" topF="22.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+            </y:GenericGroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="n0:">
+        <node id="n0::n0" yfiles.foldertype="group">
+          <data key="d4"/>
+          <data key="d5">
+            <y:ProxyAutoBoundsNode>
+              <y:Realizers active="0">
+                <y:GenericGroupNode configuration="DemoGroup">
+                  <y:Geometry height="69.0" width="232.0" x="229.5" y="-258.0"/>
+                  <y:Fill color="#68B0E3" color2="#3C679B" transparent="false"/>
+                  <y:BorderStyle hasColor="false" type="line" width="4.0"/>
+                  <y:NodeLabel alignment="left" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#FFFFFF" verticalTextPosition="bottom" visible="true" width="52.69140625" x="4.0" xml:space="preserve" y="4.0">MenuBar<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="-0.5" labelRatioY="-0.5" nodeRatioX="-0.5" nodeRatioY="-0.5" offsetX="4.0" offsetY="4.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+                  <y:State autoResize="true" closed="false" closedHeight="80.0" closedWidth="100.0"/>
+                  <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="22" topF="22.0"/>
+                  <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GenericGroupNode>
+                <y:GenericGroupNode configuration="DemoGroup">
+                  <y:Geometry height="69.0" width="232.0" x="229.5" y="-258.0"/>
+                  <y:Fill color="#68B0E3" color2="#3C679B" transparent="false"/>
+                  <y:BorderStyle hasColor="false" type="line" width="4.0"/>
+                  <y:State autoResize="true" closed="true" closedHeight="69.0" closedWidth="232.0"/>
+                  <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="22" topF="22.0"/>
+                  <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GenericGroupNode>
+              </y:Realizers>
+            </y:ProxyAutoBoundsNode>
+          </data>
+          <graph edgedefault="directed" id="n0::n0:"/>
+        </node>
+        <node id="n0::n1" yfiles.foldertype="group">
+          <data key="d4"/>
+          <data key="d5">
+            <y:ProxyAutoBoundsNode>
+              <y:Realizers active="0">
+                <y:GenericGroupNode configuration="DemoGroup">
+                  <y:Geometry height="69.0" width="232.0" x="229.5" y="-107.0"/>
+                  <y:Fill color="#68B0E3" color2="#3C679B" transparent="false"/>
+                  <y:BorderStyle hasColor="false" type="line" width="4.0"/>
+                  <y:NodeLabel alignment="left" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#FFFFFF" verticalTextPosition="bottom" visible="true" width="46.017578125" x="4.0" xml:space="preserve" y="4.0">ToolBar<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="-0.5" labelRatioY="-0.5" nodeRatioX="-0.5" nodeRatioY="-0.5" offsetX="4.0" offsetY="4.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+                  <y:State autoResize="true" closed="false" closedHeight="80.0" closedWidth="100.0"/>
+                  <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="22" topF="22.0"/>
+                  <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GenericGroupNode>
+                <y:GenericGroupNode configuration="DemoGroup">
+                  <y:Geometry height="69.0" width="232.0" x="229.5" y="-107.0"/>
+                  <y:Fill color="#68B0E3" color2="#3C679B" transparent="false"/>
+                  <y:BorderStyle hasColor="false" type="line" width="4.0"/>
+                  <y:State autoResize="true" closed="true" closedHeight="69.0" closedWidth="232.0"/>
+                  <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="22" topF="22.0"/>
+                  <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GenericGroupNode>
+              </y:Realizers>
+            </y:ProxyAutoBoundsNode>
+          </data>
+          <graph edgedefault="directed" id="n0::n1:"/>
+        </node>
+        <node id="n0::n2" yfiles.foldertype="group">
+          <data key="d4"/>
+          <data key="d5">
+            <y:ProxyAutoBoundsNode>
+              <y:Realizers active="0">
+                <y:GenericGroupNode configuration="DemoGroup">
+                  <y:Geometry height="51.0" width="232.0" x="229.5" y="30.5"/>
+                  <y:Fill color="#68B0E3" color2="#3C679B" transparent="false"/>
+                  <y:BorderStyle hasColor="false" type="line" width="4.0"/>
+                  <y:NodeLabel alignment="left" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#FFFFFF" verticalTextPosition="bottom" visible="true" width="56.693359375" x="4.0" xml:space="preserve" y="4.0">StatusBar<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="-0.5" labelRatioY="-0.5" nodeRatioX="-0.5" nodeRatioY="-0.5" offsetX="4.0" offsetY="4.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+                  <y:State autoResize="true" closed="false" closedHeight="80.0" closedWidth="100.0"/>
+                  <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="22" topF="22.0"/>
+                  <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GenericGroupNode>
+                <y:GenericGroupNode configuration="DemoGroup">
+                  <y:Geometry height="51.0" width="232.0" x="229.5" y="30.5"/>
+                  <y:Fill color="#68B0E3" color2="#3C679B" transparent="false"/>
+                  <y:BorderStyle hasColor="false" type="line" width="4.0"/>
+                  <y:State autoResize="true" closed="true" closedHeight="51.0" closedWidth="232.0"/>
+                  <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="22" topF="22.0"/>
+                  <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GenericGroupNode>
+              </y:Realizers>
+            </y:ProxyAutoBoundsNode>
+          </data>
+          <graph edgedefault="directed" id="n0::n2:"/>
+        </node>
+        <node id="n0::n3" yfiles.foldertype="group">
+          <data key="d4"/>
+          <data key="d5">
+            <y:ProxyAutoBoundsNode>
+              <y:Realizers active="0">
+                <y:GenericGroupNode configuration="DemoGroup">
+                  <y:Geometry height="423.0" width="396.0" x="-240.5" y="-277.5"/>
+                  <y:Fill color="#68B0E3" color2="#3C679B" transparent="false"/>
+                  <y:BorderStyle hasColor="false" type="line" width="4.0"/>
+                  <y:NodeLabel alignment="left" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#FFFFFF" verticalTextPosition="bottom" visible="true" width="57.34375" x="4.0" xml:space="preserve" y="4.0">WorkArea<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="-0.5" labelRatioY="-0.5" nodeRatioX="-0.5" nodeRatioY="-0.5" offsetX="4.0" offsetY="4.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+                  <y:State autoResize="true" closed="false" closedHeight="80.0" closedWidth="100.0"/>
+                  <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="22" topF="22.0"/>
+                  <y:BorderInsets bottom="11" bottomF="11.0" left="12" leftF="12.0" right="81" rightF="81.0" top="19" topF="19.0"/>
+                </y:GenericGroupNode>
+                <y:GenericGroupNode configuration="DemoGroup">
+                  <y:Geometry height="423.0" width="396.0" x="-240.5" y="-277.5"/>
+                  <y:Fill color="#68B0E3" color2="#3C679B" transparent="false"/>
+                  <y:BorderStyle hasColor="false" type="line" width="4.0"/>
+                  <y:State autoResize="true" closed="true" closedHeight="423.0" closedWidth="396.0"/>
+                  <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="22" topF="22.0"/>
+                  <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GenericGroupNode>
+              </y:Realizers>
+            </y:ProxyAutoBoundsNode>
+          </data>
+          <graph edgedefault="directed" id="n0::n3:">
+            <node id="n0::n3::n0" yfiles.foldertype="group">
+              <data key="d4"/>
+              <data key="d5">
+                <y:ProxyAutoBoundsNode>
+                  <y:Realizers active="0">
+                    <y:GenericGroupNode configuration="DemoGroup">
+                      <y:Geometry height="109.0" width="273.0" x="-213.5" y="-236.5"/>
+                      <y:Fill color="#68B0E3" color2="#3C679B" transparent="false"/>
+                      <y:BorderStyle hasColor="false" type="line" width="4.0"/>
+                      <y:NodeLabel alignment="left" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#FFFFFF" verticalTextPosition="bottom" visible="true" width="56.01953125" x="4.0" xml:space="preserve" y="4.0">MainView<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="-0.5" labelRatioY="-0.5" nodeRatioX="-0.5" nodeRatioY="-0.5" offsetX="4.0" offsetY="4.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+                      <y:State autoResize="true" closed="false" closedHeight="80.0" closedWidth="100.0"/>
+                      <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="22" topF="22.0"/>
+                      <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                    </y:GenericGroupNode>
+                    <y:GenericGroupNode configuration="DemoGroup">
+                      <y:Geometry height="109.0" width="273.0" x="-213.5" y="-236.5"/>
+                      <y:Fill color="#68B0E3" color2="#3C679B" transparent="false"/>
+                      <y:BorderStyle hasColor="false" type="line" width="4.0"/>
+                      <y:State autoResize="true" closed="true" closedHeight="109.0" closedWidth="273.0"/>
+                      <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="22" topF="22.0"/>
+                      <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                    </y:GenericGroupNode>
+                  </y:Realizers>
+                </y:ProxyAutoBoundsNode>
+              </data>
+              <graph edgedefault="directed" id="n0::n3::n0:"/>
+            </node>
+            <node id="n0::n3::n1" yfiles.foldertype="group">
+              <data key="d4"/>
+              <data key="d5">
+                <y:ProxyAutoBoundsNode>
+                  <y:Realizers active="0">
+                    <y:GenericGroupNode configuration="DemoGroup">
+                      <y:Geometry height="109.0" width="273.0" x="-213.5" y="-113.0"/>
+                      <y:Fill color="#68B0E3" color2="#3C679B" transparent="false"/>
+                      <y:BorderStyle hasColor="false" type="line" width="4.0"/>
+                      <y:NodeLabel alignment="left" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#FFFFFF" verticalTextPosition="bottom" visible="true" width="84.044921875" x="4.0" xml:space="preserve" y="4.0">AuxiliaryPane1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="-0.5" labelRatioY="-0.5" nodeRatioX="-0.5" nodeRatioY="-0.5" offsetX="4.0" offsetY="4.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+                      <y:State autoResize="true" closed="false" closedHeight="80.0" closedWidth="100.0"/>
+                      <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="22" topF="22.0"/>
+                      <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                    </y:GenericGroupNode>
+                    <y:GenericGroupNode configuration="DemoGroup">
+                      <y:Geometry height="109.0" width="273.0" x="-213.5" y="-113.0"/>
+                      <y:Fill color="#68B0E3" color2="#3C679B" transparent="false"/>
+                      <y:BorderStyle hasColor="false" type="line" width="4.0"/>
+                      <y:State autoResize="true" closed="true" closedHeight="109.0" closedWidth="273.0"/>
+                      <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="22" topF="22.0"/>
+                      <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                    </y:GenericGroupNode>
+                  </y:Realizers>
+                </y:ProxyAutoBoundsNode>
+              </data>
+              <graph edgedefault="directed" id="n0::n3::n1:"/>
+            </node>
+            <node id="n0::n3::n2" yfiles.foldertype="group">
+              <data key="d4"/>
+              <data key="d5">
+                <y:ProxyAutoBoundsNode>
+                  <y:Realizers active="0">
+                    <y:GenericGroupNode configuration="DemoGroup">
+                      <y:Geometry height="109.0" width="273.0" x="-213.5" y="10.5"/>
+                      <y:Fill color="#68B0E3" color2="#3C679B" transparent="false"/>
+                      <y:BorderStyle hasColor="false" type="line" width="4.0"/>
+                      <y:NodeLabel alignment="left" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#FFFFFF" verticalTextPosition="bottom" visible="true" width="84.044921875" x="4.0" xml:space="preserve" y="4.0">AuxiliaryPane2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="-0.5" labelRatioY="-0.5" nodeRatioX="-0.5" nodeRatioY="-0.5" offsetX="4.0" offsetY="4.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+                      <y:State autoResize="true" closed="false" closedHeight="80.0" closedWidth="100.0"/>
+                      <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="22" topF="22.0"/>
+                      <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                    </y:GenericGroupNode>
+                    <y:GenericGroupNode configuration="DemoGroup">
+                      <y:Geometry height="109.0" width="273.0" x="-213.5" y="10.5"/>
+                      <y:Fill color="#68B0E3" color2="#3C679B" transparent="false"/>
+                      <y:BorderStyle hasColor="false" type="line" width="4.0"/>
+                      <y:State autoResize="true" closed="true" closedHeight="109.0" closedWidth="273.0"/>
+                      <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="22" topF="22.0"/>
+                      <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                    </y:GenericGroupNode>
+                  </y:Realizers>
+                </y:ProxyAutoBoundsNode>
+              </data>
+              <graph edgedefault="directed" id="n0::n3::n2:"/>
+            </node>
+          </graph>
+        </node>
+      </graph>
+    </node>
+  </graph>
+  <data key="d6">
+    <y:Resources/>
+  </data>
+</graphml>

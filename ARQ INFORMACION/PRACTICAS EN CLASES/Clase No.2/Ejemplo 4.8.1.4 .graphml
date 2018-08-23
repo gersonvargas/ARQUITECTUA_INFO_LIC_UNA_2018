@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--Created by yFiles for HTML 2.1.0.3-->
+<graphml xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml.html/2.0/ygraphml.xsd " xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:demostyle="http://www.yworks.com/yFilesHTML/demos/FlatDemoStyle/1.0" xmlns:bpmn="http://www.yworks.com/xml/yfiles-for-html/bpmn/2.0" xmlns:demotablestyle="http://www.yworks.com/yFilesHTML/demos/FlatDemoTableStyle/1.0" xmlns:uml="http://www.yworks.com/yFilesHTML/demos/UMLDemoStyle/1.0" xmlns:compat="http://www.yworks.com/xml/yfiles-compat-arrows/1.0" xmlns:VuejsNodeStyle="http://www.yworks.com/demos/yfiles-vuejs-node-style/1.0" xmlns:y="http://www.yworks.com/xml/yfiles-common/3.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/3.0" xmlns:yjs="http://www.yworks.com/xml/yfiles-for-html/2.0/xaml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<key id="d0" for="node" attr.type="boolean" attr.name="Expanded" y:attr.uri="http://www.yworks.com/xml/yfiles-common/2.0/folding/Expanded">
+		<default>true</default>
+	</key>
+	<key id="d1" for="node" attr.name="NodeLabels" y:attr.uri="http://www.yworks.com/xml/yfiles-common/2.0/NodeLabels"/>
+	<key id="d2" for="node" attr.name="NodeGeometry" y:attr.uri="http://www.yworks.com/xml/yfiles-common/2.0/NodeGeometry"/>
+	<key id="d3" for="all" attr.name="UserTags" y:attr.uri="http://www.yworks.com/xml/yfiles-common/2.0/UserTags"/>
+	<key id="d4" for="node" attr.name="NodeStyle" y:attr.uri="http://www.yworks.com/xml/yfiles-common/2.0/NodeStyle"/>
+	<key id="d5" for="node" attr.name="NodeViewState" y:attr.uri="http://www.yworks.com/xml/yfiles-common/2.0/folding/1.1/NodeViewState"/>
+	<key id="d6" for="edge" attr.name="EdgeLabels" y:attr.uri="http://www.yworks.com/xml/yfiles-common/2.0/EdgeLabels"/>
+	<key id="d7" for="edge" attr.name="EdgeGeometry" y:attr.uri="http://www.yworks.com/xml/yfiles-common/2.0/EdgeGeometry"/>
+	<key id="d8" for="edge" attr.name="EdgeStyle" y:attr.uri="http://www.yworks.com/xml/yfiles-common/2.0/EdgeStyle"/>
+	<key id="d9" for="edge" attr.name="EdgeViewState" y:attr.uri="http://www.yworks.com/xml/yfiles-common/2.0/folding/1.1/EdgeViewState"/>
+	<key id="d10" for="port" attr.name="PortLabels" y:attr.uri="http://www.yworks.com/xml/yfiles-common/2.0/PortLabels"/>
+	<key id="d11" for="port" attr.name="PortLocationParameter" y:attr.uri="http://www.yworks.com/xml/yfiles-common/2.0/PortLocationParameter">
+		<default>
+			<x:Static Member="y:FreeNodePortLocationModel.NodeCenterAnchored"/>
+		</default>
+	</key>
+	<key id="d12" for="port" attr.name="PortStyle" y:attr.uri="http://www.yworks.com/xml/yfiles-common/2.0/PortStyle">
+		<default>
+			<x:Static Member="y:VoidPortStyle.Instance"/>
+		</default>
+	</key>
+	<key id="d13" for="port" attr.name="PortViewState" y:attr.uri="http://www.yworks.com/xml/yfiles-common/2.0/folding/1.1/PortViewState"/>
+	<key id="d14" attr.name="SharedData" y:attr.uri="http://www.yworks.com/xml/yfiles-common/2.0/SharedData"/>
+	<data key="d14">
+		<y:SharedData>
+			<y:InteriorStretchLabelModelParameter x:Key="1">
+				<y:InteriorStretchLabelModelParameter.Model>
+					<y:InteriorStretchLabelModel Insets="4,4,18,4"/>
+				</y:InteriorStretchLabelModelParameter.Model>
+			</y:InteriorStretchLabelModelParameter>
+			<yjs:DefaultLabelStyle x:Key="2" font="{y:GraphMLReference 3}" textFill="WHITE"/>
+			<yjs:Font x:Key="3" fontSize="12"/>
+		</y:SharedData>
+	</data>
+	<graph id="G" edgedefault="directed">
+		<node id="n0">
+			<data key="d1">
+				<x:List>
+					<y:Label LayoutParameter="{y:GraphMLReference 1}" Style="{y:GraphMLReference 2}">
+						<y:Label.Text><![CDATA[Group Node]]></y:Label.Text>
+					</y:Label>
+				</x:List>
+			</data>
+			<data key="d2">
+				<y:RectD X="596" Y="51" Width="394" Height="234"/>
+			</data>
+			<data key="d4">
+				<demostyle:DemoGroupStyle isCollapsible="true" borderColor="#68B0E3" folderFrontColor="#68B0E3" folderBackColor="#3C679B"/>
+			</data>
+			<graph id="n0:" edgedefault="directed"/>
+		</node>
+		<node id="n1">
+			<data key="d1">
+				<x:List>
+					<y:Label LayoutParameter="{y:GraphMLReference 1}" Style="{y:GraphMLReference 2}">
+						<y:Label.Text>TOP</y:Label.Text>
+					</y:Label>
+				</x:List>
+			</data>
+			<data key="d2">
+				<y:RectD X="3" Y="11" Width="632" Height="548"/>
+			</data>
+			<data key="d4">
+				<demostyle:DemoGroupStyle isCollapsible="true" borderColor="#68B0E3" folderFrontColor="#68B0E3" folderBackColor="#3C679B"/>
+			</data>
+			<graph id="n1:" edgedefault="directed">
+				<node id="n1::n0">
+					<data key="d1">
+						<x:List>
+							<y:Label LayoutParameter="{y:GraphMLReference 1}" Style="{y:GraphMLReference 2}">
+								<y:Label.Text><![CDATA[[XOR] Work Area]]></y:Label.Text>
+							</y:Label>
+						</x:List>
+					</data>
+					<data key="d2">
+						<y:RectD X="27" Y="69" Width="278" Height="293"/>
+					</data>
+					<data key="d4">
+						<demostyle:DemoGroupStyle isCollapsible="true" borderColor="#68B0E3" folderFrontColor="#68B0E3" folderBackColor="#3C679B"/>
+					</data>
+					<graph id="n1::n0:" edgedefault="directed">
+						<node id="n1::n0::n0">
+							<data key="d1">
+								<x:List>
+									<y:Label LayoutParameter="{y:GraphMLReference 1}" Style="{y:GraphMLReference 2}">
+										<y:Label.Text>Debug</y:Label.Text>
+									</y:Label>
+								</x:List>
+							</data>
+							<data key="d2">
+								<y:RectD X="48" Y="115" Width="224" Height="149"/>
+							</data>
+							<data key="d4">
+								<demostyle:DemoGroupStyle isCollapsible="true" borderColor="#68B0E3" folderFrontColor="#68B0E3" folderBackColor="#3C679B"/>
+							</data>
+							<graph id="n1::n0::n0:" edgedefault="directed">
+								<node id="n1::n0::n0::n0">
+									<data key="d1">
+										<x:List>
+											<y:Label LayoutParameter="{y:GraphMLReference 1}" Style="{y:GraphMLReference 2}">
+												<y:Label.Text>Trace</y:Label.Text>
+											</y:Label>
+										</x:List>
+									</data>
+									<data key="d2">
+										<y:RectD X="65" Y="149.5" Width="90" Height="80"/>
+									</data>
+									<data key="d4">
+										<demostyle:DemoGroupStyle isCollapsible="true" borderColor="#68B0E3" folderFrontColor="#68B0E3" folderBackColor="#3C679B"/>
+									</data>
+									<graph id="n1::n0::n0::n0:" edgedefault="directed"/>
+								</node>
+								<node id="n1::n0::n0::n1">
+									<data key="d1">
+										<x:List>
+											<y:Label LayoutParameter="{y:GraphMLReference 1}" Style="{y:GraphMLReference 2}">
+												<y:Label.Text>Vars</y:Label.Text>
+											</y:Label>
+										</x:List>
+									</data>
+									<data key="d2">
+										<y:RectD X="170" Y="149.5" Width="90" Height="80"/>
+									</data>
+									<data key="d4">
+										<demostyle:DemoGroupStyle isCollapsible="true" borderColor="#68B0E3" folderFrontColor="#68B0E3" folderBackColor="#3C679B"/>
+									</data>
+									<graph id="n1::n0::n0::n1:" edgedefault="directed"/>
+								</node>
+							</graph>
+						</node>
+						<node id="n1::n0::n1">
+							<data key="d1">
+								<x:List>
+									<y:Label LayoutParameter="{y:GraphMLReference 1}" Style="{y:GraphMLReference 2}">
+										<y:Label.Text>Code</y:Label.Text>
+									</y:Label>
+								</x:List>
+							</data>
+							<data key="d2">
+								<y:RectD X="48" Y="273" Width="224" Height="60"/>
+							</data>
+							<data key="d4">
+								<demostyle:DemoGroupStyle isCollapsible="true" borderColor="#68B0E3" folderFrontColor="#68B0E3" folderBackColor="#3C679B"/>
+							</data>
+							<graph id="n1::n0::n1:" edgedefault="directed"/>
+						</node>
+					</graph>
+				</node>
+				<node id="n1::n1">
+					<data key="d1">
+						<x:List>
+							<y:Label LayoutParameter="{y:GraphMLReference 1}" Style="{y:GraphMLReference 2}">
+								<y:Label.Text><![CDATA[Status Bar]]></y:Label.Text>
+							</y:Label>
+						</x:List>
+					</data>
+					<data key="d2">
+						<y:RectD X="156" Y="399" Width="178" Height="66"/>
+					</data>
+					<data key="d4">
+						<demostyle:DemoGroupStyle isCollapsible="true" borderColor="#68B0E3" folderFrontColor="#68B0E3" folderBackColor="#3C679B"/>
+					</data>
+					<graph id="n1::n1:" edgedefault="directed"/>
+				</node>
+				<node id="n1::n2">
+					<data key="d1">
+						<x:List>
+							<y:Label LayoutParameter="{y:GraphMLReference 1}">
+								<y:Label.Text><![CDATA[Menu Bar]]></y:Label.Text>
+								<y:Label.Style>
+									<yjs:DefaultLabelStyle font="{y:GraphMLReference 3}" textFill="WHITE"/>
+								</y:Label.Style>
+							</y:Label>
+						</x:List>
+					</data>
+					<data key="d2">
+						<y:RectD X="379" Y="69" Width="178" Height="66"/>
+					</data>
+					<data key="d4">
+						<demostyle:DemoGroupStyle isCollapsible="true" borderColor="#68B0E3" folderFrontColor="#68B0E3" folderBackColor="#3C679B"/>
+					</data>
+					<graph id="n1::n2:" edgedefault="directed"/>
+				</node>
+				<node id="n1::n3">
+					<data key="d1">
+						<x:List>
+							<y:Label LayoutParameter="{y:GraphMLReference 1}">
+								<y:Label.Text>Explorer</y:Label.Text>
+								<y:Label.Style>
+									<yjs:DefaultLabelStyle font="{y:GraphMLReference 3}" textFill="WHITE"/>
+								</y:Label.Style>
+							</y:Label>
+						</x:List>
+					</data>
+					<data key="d2">
+						<y:RectD X="379" Y="163.5" Width="178" Height="66"/>
+					</data>
+					<data key="d4">
+						<demostyle:DemoGroupStyle isCollapsible="true" borderColor="#68B0E3" folderFrontColor="#68B0E3" folderBackColor="#3C679B"/>
+					</data>
+					<graph id="n1::n3:" edgedefault="directed"/>
+				</node>
+				<node id="n1::n4">
+					<data key="d1">
+						<x:List>
+							<y:Label LayoutParameter="{y:GraphMLReference 1}">
+								<y:Label.Text>Outline</y:Label.Text>
+								<y:Label.Style>
+									<yjs:DefaultLabelStyle font="{y:GraphMLReference 3}" textFill="WHITE"/>
+								</y:Label.Style>
+							</y:Label>
+						</x:List>
+					</data>
+					<data key="d2">
+						<y:RectD X="379" Y="258" Width="178" Height="66"/>
+					</data>
+					<data key="d4">
+						<demostyle:DemoGroupStyle isCollapsible="true" borderColor="#68B0E3" folderFrontColor="#68B0E3" folderBackColor="#3C679B"/>
+					</data>
+					<graph id="n1::n4:" edgedefault="directed"/>
+				</node>
+				<node id="n1::n5">
+					<data key="d1">
+						<x:List>
+							<y:Label LayoutParameter="{y:GraphMLReference 1}">
+								<y:Label.Text>Console</y:Label.Text>
+								<y:Label.Style>
+									<yjs:DefaultLabelStyle font="{y:GraphMLReference 3}" textFill="WHITE"/>
+								</y:Label.Style>
+							</y:Label>
+						</x:List>
+					</data>
+					<data key="d2">
+						<y:RectD X="379" Y="352.5" Width="178" Height="80"/>
+					</data>
+					<data key="d4">
+						<demostyle:DemoGroupStyle isCollapsible="true" borderColor="#68B0E3" folderFrontColor="#68B0E3" folderBackColor="#3C679B"/>
+					</data>
+					<graph id="n1::n5:" edgedefault="directed"/>
+				</node>
+			</graph>
+		</node>
+	</graph>
+</graphml>
